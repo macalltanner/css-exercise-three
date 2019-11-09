@@ -54,3 +54,7 @@ h3 {
   background-color: #dddddd;
   margin-bottom: 1px;
 }
+
+.location:hover {
+  background-color: #da5d97;
+}
